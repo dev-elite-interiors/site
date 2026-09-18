@@ -1,0 +1,348 @@
+/* ═══════════════════════════════════════════════════════════════
+   DEV ELITE INTERIORS — BRAND GUIDE v1 DESIGN SYSTEM
+   Direction: Pure White Canvas · Deep Emerald · Champagne Gold
+   Typography: DM Serif Display + Manrope
+   Apple-Inspired UX: Simplicity, Whitespace, Restraint & Precision
+   ═══════════════════════════════════════════════════════════════ */
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Manrope:wght@300;400;500;600;700;800&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-serif: var(--font-display);
+  --font-sans: var(--font-ui);
+}
+
+:root {
+  /* ─── COLOR PALETTE (Brand Guide v1 Exact Values) ─── */
+  --color-white:              #FFFFFF;   /* Primary Website Canvas (70-80%) */
+  --color-off-white:          #FAF7F2;   /* Soft warm canvas for cards / alternating sections */
+  --color-cream:              #F4EFEA;   /* Neutral divider background */
+  --color-border:             #E8E4DD;   /* Delicate hairline border */
+  --color-border-subtle:      #F0ECE6;
+
+  /* Deep Emerald Green (15-25%) */
+  --color-primary-green:      #063F2B;   /* Deep Emerald — Main brand authority & primary actions */
+  --color-primary-green-dark: #042A1D;   /* Darkest Emerald — Footers & high-contrast panels */
+  --color-luxury-green:       #0D6045;   /* Secondary Luxury Green — Hover states & accents */
+  --color-green-light:        #1A7A5A;   /* Soft emerald highlight */
+  --color-green-tint:         rgba(6, 63, 43, 0.04);
+
+  /* Champagne Gold (2-5% Selective Ultra-Luxury Highlights) */
+  --color-gold:               #B69A54;   /* Champagne Gold — crown, fine borders, luxury details */
+  --color-gold-dark:          #987E3E;   /* Deep gold for hover/contrast */
+  --color-soft-gold:          #D6C18A;   /* Soft gold for borders and fine dividers */
+  --color-gold-light:         #EBDCBA;   /* Pale champagne tint */
+  --color-gold-tint:          rgba(182, 154, 84, 0.08);
+
+  /* Charcoal Text System */
+  --color-text-dark:          #1F2924;   /* Charcoal — High-readability body text */
+  --color-text-medium:        #4D5953;   /* Secondary text & descriptions */
+  --color-text-light:         #7D8A83;   /* Captions, metadata & subtle labels */
+  --color-text-on-dark:       #FAF7F2;   /* Text on dark emerald surfaces */
+
+  /* ─── TYPOGRAPHY ─── */
+  --font-display:   'DM Serif Display', Georgia, serif;
+  --font-ui:        'Manrope', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+
+  /* ─── RADII (Apple-inspired: subtle curves, not 0px and not pills) ─── */
+  --radius-button:  8px;      /* 6-10px per Brand Guide */
+  --radius-card:    14px;     /* 12-16px for cards */
+  --radius-image:   14px;     /* 12-16px for photos */
+  --radius-pill:    9999px;   /* badges only */
+
+  /* ─── SHADOWS & ELEVATION ─── */
+  --shadow-sm:       0 1px 3px rgba(6, 63, 43, 0.04), 0 1px 2px rgba(6, 63, 43, 0.02);
+  --shadow-md:       0 4px 20px rgba(6, 63, 43, 0.06);
+  --shadow-lg:       0 12px 36px rgba(6, 63, 43, 0.08);
+  --shadow-gold:     0 4px 20px rgba(182, 154, 84, 0.18);
+
+  /* ─── ANIMATION TIMINGS (Calm & Responsive per Brand Guide) ─── */
+  --transition-fast: all 0.15s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition:      all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slow: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* ═══════ BASE RESETS & EDITORIAL CANVAS ═══════ */
+html {
+  scroll-behavior: smooth;
+  background-color: var(--color-white);
+  color: var(--color-text-dark);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: var(--font-ui);
+  background-color: var(--color-white);
+  color: var(--color-text-dark);
+  font-weight: 400;
+  line-height: 1.65;
+  letter-spacing: -0.01em;
+  overflow-x: hidden;
+}
+
+/* ═══════ TYPOGRAPHY HEADINGS ═══════ */
+h1, h2, h3 {
+  font-family: var(--font-display);
+  font-weight: 400;
+  letter-spacing: -0.015em;
+  color: var(--color-primary-green);
+  line-height: 1.18;
+}
+
+h4, h5, h6 {
+  font-family: var(--font-ui);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: var(--color-primary-green);
+}
+
+.font-display {
+  font-family: var(--font-display);
+}
+
+.font-ui {
+  font-family: var(--font-ui);
+}
+
+/* Editorial paragraph max width (Brand Guide rule: 600-680px) */
+.prose-editorial {
+  max-width: 660px;
+  line-height: 1.75;
+}
+
+/* ═══════ SELECTION & SCROLLBAR ═══════ */
+::selection {
+  background: var(--color-primary-green);
+  color: #FFFFFF;
+}
+
+::-webkit-scrollbar {
+  width: 7px;
+}
+::-webkit-scrollbar-track {
+  background: var(--color-white);
+}
+::-webkit-scrollbar-thumb {
+  background: #D6C18A;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #B69A54;
+}
+
+/* ═══════ BUTTONS (Apple-Inspired Restraint: 8px radius, no gradients) ═══════ */
+/* Primary: Deep Emerald */
+.btn-primary {
+  background-color: var(--color-primary-green);
+  color: #FFFFFF;
+  font-family: var(--font-ui);
+  font-weight: 600;
+  font-size: 0.9375rem;
+  letter-spacing: 0.01em;
+  padding: 14px 28px;
+  border-radius: var(--radius-button);
+  border: 1px solid transparent;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  box-shadow: 0 1px 2px rgba(6, 63, 43, 0.1);
+  transition: var(--transition);
+}
+.btn-primary:hover {
+  background-color: var(--color-luxury-green);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 14px rgba(6, 63, 43, 0.16);
+}
+.btn-primary:active {
+  transform: translateY(0);
+}
+
+/* Secondary: Outlined with Soft Gold / Neutral */
+.btn-secondary {
+  background-color: transparent;
+  color: var(--color-primary-green);
+  font-family: var(--font-ui);
+  font-weight: 600;
+  font-size: 0.9375rem;
+  padding: 13px 26px;
+  border-radius: var(--radius-button);
+  border: 1px solid var(--color-border);
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  transition: var(--transition);
+}
+.btn-secondary:hover {
+  border-color: var(--color-gold);
+  background-color: var(--color-off-white);
+  color: var(--color-primary-green);
+  transform: translateY(-1px);
+}
+
+/* Secondary Gold Accent CTA */
+.btn-gold-outline {
+  background-color: transparent;
+  color: var(--color-gold-dark);
+  font-family: var(--font-ui);
+  font-weight: 600;
+  font-size: 0.9375rem;
+  padding: 13px 26px;
+  border-radius: var(--radius-button);
+  border: 1px solid var(--color-soft-gold);
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  transition: var(--transition);
+}
+.btn-gold-outline:hover {
+  background-color: var(--color-gold-tint);
+  border-color: var(--color-gold);
+}
+
+/* Ghost on Dark Green */
+.btn-ghost-dark {
+  background-color: rgba(255, 255, 255, 0.08);
+  color: #FFFFFF;
+  font-family: var(--font-ui);
+  font-weight: 500;
+  font-size: 0.9375rem;
+  padding: 13px 26px;
+  border-radius: var(--radius-button);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  transition: var(--transition);
+}
+.btn-ghost-dark:hover {
+  background-color: rgba(255, 255, 255, 0.15);
+  border-color: var(--color-soft-gold);
+  color: var(--color-gold-light);
+}
+
+/* ═══════ CARDS & CONTAINERS (Soft 14px radius, clean 1px border) ═══════ */
+.card-clean {
+  background-color: var(--color-white);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-card);
+  padding: 32px;
+  transition: var(--transition);
+  box-shadow: var(--shadow-sm);
+}
+.card-clean:hover {
+  border-color: var(--color-soft-gold);
+  box-shadow: var(--shadow-md);
+  transform: translateY(-2px);
+}
+
+/* Soft Off-White Container */
+.card-offwhite {
+  background-color: var(--color-off-white);
+  border: 1px solid var(--color-border-subtle);
+  border-radius: var(--radius-card);
+  padding: 32px;
+  transition: var(--transition);
+}
+.card-offwhite:hover {
+  border-color: var(--color-border);
+}
+
+/* ═══════ SECTION DIVIDER — REFINED GOLD ACCENT ═══════ */
+.brand-divider {
+  width: 48px;
+  height: 2px;
+  background-color: var(--color-gold);
+  margin: 18px auto;
+  border-radius: 2px;
+}
+.brand-divider.left {
+  margin: 18px 0;
+}
+
+/* ═══════ BADGE / LABELS ═══════ */
+.badge-gold {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 14px;
+  border-radius: var(--radius-pill);
+  background-color: var(--color-gold-tint);
+  border: 1px solid var(--color-soft-gold);
+  color: var(--color-gold-dark);
+  font-family: var(--font-ui);
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.badge-green {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 14px;
+  border-radius: var(--radius-pill);
+  background-color: var(--color-green-tint);
+  border: 1px solid rgba(6, 63, 43, 0.15);
+  color: var(--color-primary-green);
+  font-family: var(--font-ui);
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+/* ═══════ NAVBAR STYLING ═══════ */
+.navbar-frosted {
+  background-color: rgba(255, 255, 255, 0.92);
+  border-bottom: 1px solid var(--color-border-subtle);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+}
+
+.nav-link-item {
+  color: var(--color-text-medium);
+  font-family: var(--font-ui);
+  font-weight: 500;
+  font-size: 0.9375rem;
+  letter-spacing: -0.01em;
+  transition: var(--transition-fast);
+  position: relative;
+  padding: 8px 0;
+}
+.nav-link-item:hover,
+.nav-link-item.active {
+  color: var(--color-primary-green);
+}
+.nav-link-item::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background-color: var(--color-primary-green);
+  transition: var(--transition-fast);
+}
+.nav-link-item:hover::after,
+.nav-link-item.active::after {
+  width: 100%;
+}
+
+/* ═══════ IMAGE ROUNDING & HOVER EFFECTS ═══════ */
+.img-luxury {
+  border-radius: var(--radius-image);
+  transition: var(--transition-slow);
+}
+.img-luxury:hover {
+  transform: scale(1.02);
+}
