@@ -46,12 +46,12 @@ const curatedWorks = [
     specs: "Hydraulic upholstered king bed, integrated warm cove lighting, and tailored floor-to-ceiling wardrobe.",
   },
   {
-    title: "Executive Private Study & Lounge",
-    category: "Bespoke Commercial & Study",
+    title: "Architectural Media & Fluted Lounge",
+    category: "Acoustic Millwork & Living",
     location: "Camac Street, Kolkata",
-    image: "/products/office/OFF-001.webp",
+    image: "/products/tv-unit/TV-001.webp",
     aspect: "col-span-12 lg:col-span-7",
-    specs: "Acoustic timber wall paneling, live-edge teak executive desk, and concealed cable infrastructure.",
+    specs: "Acoustic fluted timber wall paneling, floating teak media console, and concealed cable infrastructure.",
   },
 ];
 
