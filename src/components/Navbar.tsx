@@ -7,21 +7,18 @@ import CTAButton from "./CTAButton";
 import {
   Phone,
   MessageSquare,
-  Sparkles,
   Search,
   ShieldCheck,
-  PlusCircle,
   Menu,
   X,
 } from "lucide-react";
 
 const navLinks = [
   { href: "/", label: "Home" },
+  { href: "/portfolio", label: "Selected Works" },
   { href: "/products", label: "Furniture Catalog" },
-  { href: "/#bespoke-engine", label: "Custom Design" },
-  { href: "/#shop-by-room", label: "Shop by Room" },
-  { href: "/#craftsmanship", label: "Craftsmanship" },
-  { href: "/portfolio", label: "Projects" },
+  { href: "/services", label: "Disciplines" },
+  { href: "/about", label: "About Studio" },
   { href: "/contact", label: "Contact" },
 ];
 
@@ -30,10 +27,10 @@ export default function Navbar() {
 
   return (
     <header className="fixed top-0 left-0 right-0 z-50 transition-all">
-      {/* Top Luxury Announcement Bar (Inspired by OrgoWood header) */}
+      {/* Top Subtle Luxury Bar */}
       <div className="bg-[var(--color-primary-green-dark)] text-white text-[11px] sm:text-xs py-2 px-4 border-b border-[var(--color-gold)]/20">
         <div className="max-w-7xl mx-auto flex items-center justify-between">
-          {/* Left: Studio Phone & Pan-India tag */}
+          {/* Left: Studio Phone & Pan-India Quality */}
           <div className="flex items-center gap-4 sm:gap-6">
             <a
               href="tel:+917368032697"
@@ -48,30 +45,22 @@ export default function Navbar() {
             </span>
           </div>
 
-          {/* Right: Quick Upload & Free 3D Design */}
+          {/* Right: Direct Concierge WhatsApp */}
           <div className="flex items-center gap-4">
-            <Link
-              href="/admin/products"
-              className="inline-flex items-center gap-1 text-[var(--color-gold-light)] hover:text-white transition-colors font-medium"
-            >
-              <PlusCircle className="w-3.5 h-3.5 text-[var(--color-gold)]" />
-              <span>Upload Photos</span>
-            </Link>
-            <div className="hidden sm:block h-3 w-px bg-white/20" />
             <a
               href="https://wa.me/917368032697?text=Namaste%20Dev%20Elite%20Interiors%2C%20I%20would%20like%20to%20request%20a%20Free%203D%20Design%20Consultation."
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center gap-1 text-white hover:text-[var(--color-gold-light)] transition-colors font-semibold"
+              className="inline-flex items-center gap-1.5 text-white hover:text-[var(--color-gold-light)] transition-colors font-medium text-[11px] sm:text-xs"
             >
-              <MessageSquare className="w-3.5 h-3.5 text-emerald-400" />
-              <span className="hidden sm:inline">Free 3D Design on WhatsApp</span>
+              <MessageSquare className="w-3.5 h-3.5 text-[var(--color-gold)]" />
+              <span>Free 3D Design Preview on WhatsApp</span>
             </a>
           </div>
         </div>
       </div>
 
-      {/* Main Navbar */}
+      {/* Main Luxury Nav */}
       <nav className="navbar-frosted border-b border-[var(--color-border)]">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-20">
@@ -79,12 +68,12 @@ export default function Navbar() {
             <BrandLogo variant="light" size="md" />
 
             {/* Desktop Navigation */}
-            <div className="hidden lg:flex items-center gap-7">
+            <div className="hidden lg:flex items-center gap-8">
               {navLinks.map((link) => (
                 <Link
                   key={link.href}
                   href={link.href}
-                  className="nav-link-item !text-sm"
+                  className="nav-link-item !text-sm font-medium tracking-wide"
                 >
                   {link.label}
                 </Link>
@@ -92,7 +81,7 @@ export default function Navbar() {
             </div>
 
             {/* Desktop CTAs */}
-            <div className="hidden sm:flex items-center gap-3">
+            <div className="hidden sm:flex items-center gap-4">
               <Link
                 href="/products"
                 className="p-2.5 rounded-full text-[var(--color-text-dark)] hover:text-[var(--color-primary-green)] hover:bg-[var(--color-off-white)] border border-[var(--color-border-subtle)] transition-colors"
@@ -130,14 +119,6 @@ export default function Navbar() {
                   </Link>
                 ))}
                 <div className="pt-3 mt-2 border-t border-[var(--color-border-subtle)] flex flex-col gap-2">
-                  <Link
-                    href="/admin/products"
-                    onClick={() => setIsOpen(false)}
-                    className="px-3.5 py-2.5 text-sm font-semibold text-[var(--color-gold-dark)] flex items-center gap-2"
-                  >
-                    <PlusCircle className="w-4 h-4 text-[var(--color-gold)]" />
-                    <span>Upload Product Photos</span>
-                  </Link>
                   <CTAButton size="md" variant="primary" className="w-full justify-center">
                     Start a Project ↗
                   </CTAButton>

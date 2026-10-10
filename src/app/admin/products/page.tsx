@@ -244,19 +244,29 @@ export default function AdminProductsPage() {
 
           <div className="flex items-center gap-4">
             <Link
-              href="/"
-              className="inline-flex items-center gap-2 text-xs sm:text-sm font-semibold text-[var(--color-text-medium)] hover:text-[var(--color-primary-green)] transition-colors"
+              href="/admin"
+              className="inline-flex items-center gap-2 text-xs sm:text-sm font-semibold text-[var(--color-primary-green)] hover:text-[var(--color-gold-dark)] transition-colors"
             >
               <ArrowLeft className="w-4 h-4" />
-              <span>Back to Home</span>
+              <span>Atelier Dashboard</span>
             </Link>
             <Link
               href="/products"
+              target="_blank"
               className="btn-primary !py-2 !px-4 !text-xs sm:!text-sm inline-flex items-center gap-2"
             >
               <Eye className="w-4 h-4" />
-              <span>View Live Catalog</span>
+              <span>View Catalog</span>
             </Link>
+            <button
+              onClick={async () => {
+                await fetch("/api/admin/auth", { method: "DELETE" });
+                window.location.href = "/admin/login";
+              }}
+              className="text-xs text-red-600 hover:text-red-700 hover:bg-red-50 px-3 py-2 rounded-lg border border-red-200 transition-colors font-medium cursor-pointer"
+            >
+              Sign Out
+            </button>
           </div>
         </div>
       </header>

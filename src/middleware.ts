@@ -1,0 +1,71 @@
+import { NextResponse, type NextRequest } from "next/server";
+
+const COOKIE_NAME = "de_admin_session";
+const ADMIN_EMAIL = process.env.ADMIN_EMAIL || "info.develiteinteriors@gmail.com";
+
+export function middleware(request: NextRequest) {
+  const host = request.headers.get("host") || "";
+  const { pathname } = request.nextUrl;
+
+  const isAdminSubdomain = host.startsWith("admin.");
+
+  // If request is from admin subdomain and accessing root, route to /admin
+  if (isAdminSubdomain && pathname === "/") {
+    return NextResponse.rewrite(new URL("/admin", request.url));
+  }
+
+  // Admin routes protection
+  const isAdminPath = pathname.startsWith("/admin");
+  const isLoginPage = pathname === "/admin/login";
+  const isAuthApi = pathname.startsWith("/api/admin/auth");
+
+  if (isAdminPath && !isLoginPage && !isAuthApi) {
+    const sessionCookie = request.cookies.get(COOKIE_NAME);
+
+    let isAuthenticated = false;
+    if (sessionCookie && sessionCookie.value) {
+      try {
+        const decoded = JSON.parse(
+          Buffer.from(sessionCookie.value, "base64").toString("utf-8")
+        );
+        if (decoded.email === ADMIN_EMAIL) {
+          isAuthenticated = true;
+        }
+      } catch {
+        isAuthenticated = false;
+      }
+    }
+
+    if (!isAuthenticated) {
+      const loginUrl = new URL("/admin/login", request.url);
+      loginUrl.searchParams.set("from", pathname);
+      return NextResponse.redirect(loginUrl);
+    }
+  }
+
+  // If already authenticated and visiting /admin/login, redirect to /admin
+  if (isLoginPage) {
+    const sessionCookie = request.cookies.get(COOKIE_NAME);
+    if (sessionCookie && sessionCookie.value) {
+      try {
+        const decoded = JSON.parse(
+          Buffer.from(sessionCookie.value, "base64").toString("utf-8")
+        );
+        if (decoded.email === ADMIN_EMAIL) {
+          return NextResponse.redirect(new URL("/admin", request.url));
+        }
+      } catch {
+        // Continue to login
+      }
+    }
+  }
+
+  return NextResponse.next();
+}
+
+export const config = {
+  matcher: [
+    "/admin/:path*",
+    "/((?!_next/static|_next/image|favicon.ico|products/|.*\\.(?:svg|png|jpg|jpeg|webp)$).*)",
+  ],
+};
