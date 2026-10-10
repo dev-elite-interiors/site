@@ -54,9 +54,12 @@ export default function AboutPage() {
           <div className="grid md:grid-cols-12 gap-12 lg:gap-16 items-center">
             <div className="md:col-span-6 relative h-[440px] sm:h-[540px] rounded-[16px] overflow-hidden border border-[var(--color-border)] shadow-md">
               <Image
-                src="https://images.unsplash.com/photo-1618220179428-2b792bbc1348?auto=format&fit=crop&q=85"
-                alt="Studio interior craftsmanship"
+                src="/products/signature-showcase/SIG-002.webp"
+                alt="Dev Elite studio interior architecture craftsmanship"
                 fill
+                priority
+                quality={90}
+                sizes="(max-width: 768px) 100vw, 50vw"
                 className="object-cover"
               />
               <div className="absolute bottom-6 left-6 bg-white/95 backdrop-blur-md px-5 py-3 rounded-lg border border-white/60 shadow-sm">

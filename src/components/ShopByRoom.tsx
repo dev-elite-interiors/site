@@ -10,7 +10,7 @@ const ROOM_TABS = [
     id: "living",
     title: "Living Room",
     subtitle: "Conversation, Comfort & Presence",
-    image: "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&q=80&w=1200",
+    image: "/products/living-room/LR-001.webp",
     description: "Architectural sectionals, marble coffee tables, bespoke media walls, and warm ambient illumination designed for hosting.",
     items: [
       "Custom Chesterfield & L-Shape Loungers",
@@ -24,7 +24,7 @@ const ROOM_TABS = [
     id: "bedroom",
     title: "Master Bedroom",
     subtitle: "Sanctuary of Rest & Tailored Storage",
-    image: "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&q=80&w=1200",
+    image: "/products/bedroom/BR-001.webp",
     description: "Cantilevered floating teak beds, acoustic headboard panels, walk-in fluted glass wardrobes, and vanity suites.",
     items: [
       "Hydraulic storage platform beds with soft-lift",
@@ -38,7 +38,7 @@ const ROOM_TABS = [
     id: "dining",
     title: "Dining Room",
     subtitle: "Celebrations Around Heirloom Wood",
-    image: "https://images.unsplash.com/photo-1617806118233-18e1de247200?auto=format&fit=crop&q=80&w=1200",
+    image: "/products/signature-showcase/SIG-003.webp",
     description: "Single-slab solid teak live-edge dining tables, ergonomic velvet dining chairs, and illuminated crockery showcases.",
     items: [
       "6 & 8-Seater live edge solid timber tables",
@@ -52,7 +52,7 @@ const ROOM_TABS = [
     id: "kitchen",
     title: "Modular Kitchen",
     subtitle: "Culinary Precision & Zero Maintenance",
-    image: "https://images.unsplash.com/photo-1556910103-1c02745a872f?auto=format&fit=crop&q=80&w=1200",
+    image: "/products/modular-kitchen/MK-001.webp",
     description: "Boiling water-proof marine plywood cabinetry, scratch-resistant acrylic and PU shutters, and quartz waterfall islands.",
     items: [
       "Blum Legrabox soft-close drawer assemblies",
@@ -66,7 +66,7 @@ const ROOM_TABS = [
     id: "office",
     title: "Home Office",
     subtitle: "Focus, Prestige & Ergonomic Grace",
-    image: "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?auto=format&fit=crop&q=80&w=1200",
+    image: "/products/tv-unit/TV-001.webp",
     description: "Solid wood executive desks with wire docks, floor-to-ceiling library shelving, and bespoke executive acoustics.",
     items: [
       "Teak executive desks with leather writing inlays",
@@ -143,6 +143,8 @@ export default function ShopByRoom() {
               src={currentRoom.image}
               alt={currentRoom.title}
               fill
+              quality={90}
+              sizes="(max-width: 1024px) 100vw, 60vw"
               className="object-cover"
               priority
             />

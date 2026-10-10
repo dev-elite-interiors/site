@@ -109,9 +109,11 @@ export default function CraftsmanshipShowcase() {
           <div className="lg:col-span-5 relative">
             <div className="relative aspect-[4/5] w-full rounded-3xl overflow-hidden border border-[var(--color-border)] shadow-xl bg-[var(--color-off-white)]">
               <Image
-                src="https://images.unsplash.com/photo-1540518614846-7ede433c4b4d?auto=format&fit=crop&q=80&w=1200"
+                src="/products/wardrobe/WD-001.webp"
                 alt="Dev Elite Artisanal Wood Workshop"
                 fill
+                quality={90}
+                sizes="(max-width: 1024px) 100vw, 40vw"
                 className="object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-[var(--color-primary-green-dark)]/80 via-transparent to-transparent" />
