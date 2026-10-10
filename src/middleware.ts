@@ -8,18 +8,30 @@ export function middleware(request: NextRequest) {
   const { pathname } = request.nextUrl;
 
   const isAdminSubdomain = host.startsWith("admin.");
-
-  // If request is from admin subdomain and accessing root, route to /admin
-  if (isAdminSubdomain && pathname === "/") {
-    return NextResponse.rewrite(new URL("/admin", request.url));
-  }
-
-  // Admin routes protection
-  const isAdminPath = pathname.startsWith("/admin");
-  const isLoginPage = pathname === "/admin/login";
+  const isAdminPath = pathname.startsWith("/admin") || isAdminSubdomain;
+  const isLoginPage = pathname === "/admin/login" || (isAdminSubdomain && pathname === "/login");
   const isAuthApi = pathname.startsWith("/api/admin/auth");
 
-  if (isAdminPath && !isLoginPage && !isAuthApi) {
+  // If already authenticated and visiting login page, redirect to /admin
+  if (isLoginPage) {
+    const sessionCookie = request.cookies.get(COOKIE_NAME);
+    if (sessionCookie && sessionCookie.value) {
+      try {
+        const decoded = JSON.parse(
+          Buffer.from(sessionCookie.value, "base64").toString("utf-8")
+        );
+        if (decoded.email === ADMIN_EMAIL) {
+          return NextResponse.redirect(new URL("/admin", request.url));
+        }
+      } catch {
+        // Continue to login
+      }
+    }
+    return NextResponse.next();
+  }
+
+  // Protect admin paths
+  if (isAdminPath && !isAuthApi) {
     const sessionCookie = request.cookies.get(COOKIE_NAME);
 
     let isAuthenticated = false;
@@ -41,22 +53,10 @@ export function middleware(request: NextRequest) {
       loginUrl.searchParams.set("from", pathname);
       return NextResponse.redirect(loginUrl);
     }
-  }
 
-  // If already authenticated and visiting /admin/login, redirect to /admin
-  if (isLoginPage) {
-    const sessionCookie = request.cookies.get(COOKIE_NAME);
-    if (sessionCookie && sessionCookie.value) {
-      try {
-        const decoded = JSON.parse(
-          Buffer.from(sessionCookie.value, "base64").toString("utf-8")
-        );
-        if (decoded.email === ADMIN_EMAIL) {
-          return NextResponse.redirect(new URL("/admin", request.url));
-        }
-      } catch {
-        // Continue to login
-      }
+    // Authenticated on admin subdomain accessing root -> rewrite to /admin
+    if (isAdminSubdomain && pathname === "/") {
+      return NextResponse.rewrite(new URL("/admin", request.url));
     }
   }
 
