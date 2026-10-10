@@ -13,7 +13,7 @@ import {
   Filter,
   Sparkles,
   SlidersHorizontal,
-  PlusCircle,
+  MessageSquare,
   X,
   Layers,
 } from "lucide-react";
@@ -118,13 +118,15 @@ export default function ProductsCatalogPage() {
             </div>
 
             <div className="flex items-center gap-3">
-              <Link
-                href="/admin/products"
+              <a
+                href="https://wa.me/917368032697?text=Namaste%20Dev%20Elite%20Interiors%2C%20I%20am%20exploring%20your%20furniture%20catalog%20and%20would%20like%20to%20request%20a%20custom%20design%20consultation."
+                target="_blank"
+                rel="noopener noreferrer"
                 className="btn-primary !py-2.5 !px-5 text-xs sm:text-sm inline-flex items-center gap-2"
               >
-                <PlusCircle className="w-4 h-4" />
-                <span>Upload New Photos</span>
-              </Link>
+                <MessageSquare className="w-4 h-4 text-[var(--color-gold)]" />
+                <span>Custom Order on WhatsApp ↗</span>
+              </a>
             </div>
           </div>
         </div>

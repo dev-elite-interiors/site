@@ -5,7 +5,7 @@ import Link from "next/link";
 import { Product } from "@/types/product";
 import ProductCard from "./ProductCard";
 import ProductQuickView from "./ProductQuickView";
-import { Sparkles, ArrowRight, PlusCircle } from "lucide-react";
+import { Sparkles, ArrowRight } from "lucide-react";
 
 interface FeaturedProductsProps {
   initialProducts?: Product[];
@@ -73,13 +73,6 @@ export default function FeaturedProducts({ initialProducts = [] }: FeaturedProdu
           </div>
 
           <div className="flex items-center gap-3">
-            <Link
-              href="/admin/products"
-              className="inline-flex items-center gap-1.5 text-xs font-semibold px-3 py-2 rounded-lg border border-[var(--color-border)] text-[var(--color-text-medium)] hover:text-[var(--color-primary-green)] hover:bg-[var(--color-off-white)] transition-colors"
-            >
-              <PlusCircle className="w-4 h-4 text-[var(--color-gold)]" />
-              <span>Upload Photos</span>
-            </Link>
             <Link
               href="/products"
               className="btn-primary !py-2.5 !px-5 text-xs sm:text-sm inline-flex items-center gap-2"
