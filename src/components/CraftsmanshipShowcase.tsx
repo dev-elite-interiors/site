@@ -112,7 +112,6 @@ export default function CraftsmanshipShowcase() {
                 src="/products/wardrobe/WD-001.webp"
                 alt="Dev Elite Artisanal Wood Workshop"
                 fill
-                quality={90}
                 sizes="(max-width: 1024px) 100vw, 40vw"
                 className="object-cover"
               />

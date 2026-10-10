@@ -143,7 +143,6 @@ export default function ShopByRoom() {
               src={currentRoom.image}
               alt={currentRoom.title}
               fill
-              quality={90}
               sizes="(max-width: 1024px) 100vw, 60vw"
               className="object-cover"
               priority

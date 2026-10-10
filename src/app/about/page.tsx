@@ -58,7 +58,6 @@ export default function AboutPage() {
                 alt="Dev Elite studio interior architecture craftsmanship"
                 fill
                 priority
-                quality={90}
                 sizes="(max-width: 768px) 100vw, 50vw"
                 className="object-cover"
               />
