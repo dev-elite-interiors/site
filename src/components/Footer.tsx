@@ -11,7 +11,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-12 gap-12 pb-16 border-b border-white/10">
           {/* Studio Brand Column (5 cols) */}
           <div className="md:col-span-5 flex flex-col">
-            <BrandLogo variant="dark" size="md" className="mb-6" />
+            <BrandLogo variant="dark" size="lg" layout="stacked" className="mb-6" />
             <p className="text-white/70 text-sm leading-relaxed max-w-sm font-normal mb-8">
               Dev Elite Interiors is a premier interior architecture and bespoke furnishings studio. We craft considered, timeless spaces designed around the way you live.
             </p>

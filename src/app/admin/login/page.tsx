@@ -46,8 +46,8 @@ function LoginForm() {
   return (
     <div className="w-full max-w-md bg-white rounded-2xl shadow-2xl p-8 sm:p-10 text-[var(--color-text-dark)] border border-[var(--color-border)]">
       <div className="text-center mb-8">
-        <div className="w-12 h-12 rounded-full bg-[var(--color-green-tint)] mx-auto mb-4 flex items-center justify-center border border-[var(--color-primary-green)]/20">
-          <Lock className="w-5 h-5 text-[var(--color-primary-green)]" />
+        <div className="mb-4 flex justify-center">
+          <BrandLogo variant="light" size="md" layout="stacked" />
         </div>
         <h1
           className="text-2xl sm:text-3xl font-normal text-[var(--color-primary-green)] mb-2"
