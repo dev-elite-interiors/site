@@ -1,6 +1,7 @@
 "use client";
 
-import { useState, useEffect, useMemo } from "react";
+import { Suspense, useState, useEffect, useMemo } from "react";
+import { useSearchParams } from "next/navigation";
 import Link from "next/link";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
@@ -26,8 +27,9 @@ const CATEGORIES = [
   { id: "kitchen", label: "Modular Kitchens" },
   { id: "tv-unit", label: "TV Units" },
   { id: "dining", label: "Dining Tables" },
-  { id: "office", label: "Home Office" },
-  { id: "outdoor", label: "Outdoor & Patio" },
+  { id: "office", label: "Executive Desks" },
+  { id: "outdoor", label: "Balcony & Patio" },
+  { id: "custom", label: "Bespoke Woodwork" },
 ];
 
 const ROOMS = [
@@ -37,16 +39,32 @@ const ROOMS = [
   { id: "dining", label: "Dining Room" },
   { id: "kitchen", label: "Modular Kitchen" },
   { id: "office", label: "Home Office" },
-  { id: "outdoor", label: "Outdoor" },
+  { id: "outdoor", label: "Balcony & Patio" },
 ];
 
-export default function ProductsCatalogPage() {
+function ProductsCatalogContent() {
+  const searchParams = useSearchParams();
+  const categoryParam = searchParams.get("category");
+  const roomParam = searchParams.get("room");
+
   const [products, setProducts] = useState<Product[]>([]);
   const [loading, setLoading] = useState(true);
   const [searchQuery, setSearchQuery] = useState("");
-  const [selectedCategory, setSelectedCategory] = useState("all");
-  const [selectedRoom, setSelectedRoom] = useState("all");
+  const [selectedCategory, setSelectedCategory] = useState(categoryParam || "all");
+  const [selectedRoom, setSelectedRoom] = useState(roomParam || "all");
   const [selectedProduct, setSelectedProduct] = useState<Product | null>(null);
+
+  useEffect(() => {
+    if (categoryParam) {
+      setSelectedCategory(categoryParam);
+    }
+  }, [categoryParam]);
+
+  useEffect(() => {
+    if (roomParam) {
+      setSelectedRoom(roomParam);
+    }
+  }, [roomParam]);
 
   useEffect(() => {
     async function loadProducts() {
@@ -283,5 +301,20 @@ export default function ProductsCatalogPage() {
 
       <Footer />
     </div>
+  );
+}
+
+export default function ProductsCatalogPage() {
+  return (
+    <Suspense
+      fallback={
+        <div className="min-h-screen bg-white flex flex-col items-center justify-center">
+          <div className="w-12 h-12 border-3 border-[var(--color-primary-green)] border-t-transparent rounded-full animate-spin mb-4" />
+          <p className="text-sm font-medium text-[var(--color-text-medium)]">Loading catalog...</p>
+        </div>
+      }
+    >
+      <ProductsCatalogContent />
+    </Suspense>
   );
 }

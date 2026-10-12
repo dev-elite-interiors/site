@@ -15442,5 +15442,2165 @@
     "featured": false,
     "isFeatured": false,
     "createdAt": "2026-10-10"
+  },
+  {
+    "id": "DT-001",
+    "title": "Solid Teak Dining Table #01",
+    "slug": "dining-table-01",
+    "category": "dining",
+    "categoryLabel": "Dining Tables",
+    "categorySlug": "dining-table",
+    "room": "dining",
+    "roomLabel": "Dining Room",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": "Single Slab Teak",
+    "woodOptions": [
+      "Single-Slab Solid Teak",
+      "Italian Marble Inlay",
+      "American Walnut Polish",
+      "BWR Marine Substrate"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/dining-table/DT-001.webp",
+    "images": [
+      "/products/dining-table/DT-001.webp"
+    ],
+    "width": 1200,
+    "height": 1200,
+    "sizeKb": 339.9,
+    "description": "Custom Dining Tables handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "100% Solid Seasoned Teak & BWP substrate",
+      "Single-slab timber with zero-wobble mortise joinery",
+      "Food-grade heat and stain-resistant PU finish",
+      "5-Year comprehensive studio warranty"
+    ],
+    "featured": true,
+    "isFeatured": true,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "DT-002",
+    "title": "Solid Teak Dining Table #02",
+    "slug": "dining-table-02",
+    "category": "dining",
+    "categoryLabel": "Dining Tables",
+    "categorySlug": "dining-table",
+    "room": "dining",
+    "roomLabel": "Dining Room",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": "Best Seller",
+    "woodOptions": [
+      "Single-Slab Solid Teak",
+      "Italian Marble Inlay",
+      "American Walnut Polish",
+      "BWR Marine Substrate"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/dining-table/DT-002.webp",
+    "images": [
+      "/products/dining-table/DT-002.webp"
+    ],
+    "width": 735,
+    "height": 919,
+    "sizeKb": 193.7,
+    "description": "Custom Dining Tables handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "100% Solid Seasoned Teak & BWP substrate",
+      "Single-slab timber with zero-wobble mortise joinery",
+      "Food-grade heat and stain-resistant PU finish",
+      "5-Year comprehensive studio warranty"
+    ],
+    "featured": true,
+    "isFeatured": true,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "DT-003",
+    "title": "Solid Teak Dining Table #03",
+    "slug": "dining-table-03",
+    "category": "dining",
+    "categoryLabel": "Dining Tables",
+    "categorySlug": "dining-table",
+    "room": "dining",
+    "roomLabel": "Dining Room",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": "Heirloom Grade",
+    "woodOptions": [
+      "Single-Slab Solid Teak",
+      "Italian Marble Inlay",
+      "American Walnut Polish",
+      "BWR Marine Substrate"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/dining-table/DT-003.webp",
+    "images": [
+      "/products/dining-table/DT-003.webp"
+    ],
+    "width": 1200,
+    "height": 1283,
+    "sizeKb": 115.2,
+    "description": "Custom Dining Tables handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "100% Solid Seasoned Teak & BWP substrate",
+      "Single-slab timber with zero-wobble mortise joinery",
+      "Food-grade heat and stain-resistant PU finish",
+      "5-Year comprehensive studio warranty"
+    ],
+    "featured": true,
+    "isFeatured": true,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "DT-004",
+    "title": "Solid Teak Dining Table #04",
+    "slug": "dining-table-04",
+    "category": "dining",
+    "categoryLabel": "Dining Tables",
+    "categorySlug": "dining-table",
+    "room": "dining",
+    "roomLabel": "Dining Room",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Single-Slab Solid Teak",
+      "Italian Marble Inlay",
+      "American Walnut Polish",
+      "BWR Marine Substrate"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/dining-table/DT-004.webp",
+    "images": [
+      "/products/dining-table/DT-004.webp"
+    ],
+    "width": 610,
+    "height": 1084,
+    "sizeKb": 33.1,
+    "description": "Custom Dining Tables handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "100% Solid Seasoned Teak & BWP substrate",
+      "Single-slab timber with zero-wobble mortise joinery",
+      "Food-grade heat and stain-resistant PU finish",
+      "5-Year comprehensive studio warranty"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "DT-005",
+    "title": "Solid Teak Dining Table #05",
+    "slug": "dining-table-05",
+    "category": "dining",
+    "categoryLabel": "Dining Tables",
+    "categorySlug": "dining-table",
+    "room": "dining",
+    "roomLabel": "Dining Room",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": "Exclusive",
+    "woodOptions": [
+      "Single-Slab Solid Teak",
+      "Italian Marble Inlay",
+      "American Walnut Polish",
+      "BWR Marine Substrate"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/dining-table/DT-005.webp",
+    "images": [
+      "/products/dining-table/DT-005.webp"
+    ],
+    "width": 750,
+    "height": 1000,
+    "sizeKb": 68.7,
+    "description": "Custom Dining Tables handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "100% Solid Seasoned Teak & BWP substrate",
+      "Single-slab timber with zero-wobble mortise joinery",
+      "Food-grade heat and stain-resistant PU finish",
+      "5-Year comprehensive studio warranty"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "DT-006",
+    "title": "Solid Teak Dining Table #06",
+    "slug": "dining-table-06",
+    "category": "dining",
+    "categoryLabel": "Dining Tables",
+    "categorySlug": "dining-table",
+    "room": "dining",
+    "roomLabel": "Dining Room",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Single-Slab Solid Teak",
+      "Italian Marble Inlay",
+      "American Walnut Polish",
+      "BWR Marine Substrate"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/dining-table/DT-006.webp",
+    "images": [
+      "/products/dining-table/DT-006.webp"
+    ],
+    "width": 1200,
+    "height": 900,
+    "sizeKb": 69.8,
+    "description": "Custom Dining Tables handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "100% Solid Seasoned Teak & BWP substrate",
+      "Single-slab timber with zero-wobble mortise joinery",
+      "Food-grade heat and stain-resistant PU finish",
+      "5-Year comprehensive studio warranty"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "DT-007",
+    "title": "Solid Teak Dining Table #07",
+    "slug": "dining-table-07",
+    "category": "dining",
+    "categoryLabel": "Dining Tables",
+    "categorySlug": "dining-table",
+    "room": "dining",
+    "roomLabel": "Dining Room",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Single-Slab Solid Teak",
+      "Italian Marble Inlay",
+      "American Walnut Polish",
+      "BWR Marine Substrate"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/dining-table/DT-007.webp",
+    "images": [
+      "/products/dining-table/DT-007.webp"
+    ],
+    "width": 780,
+    "height": 1040,
+    "sizeKb": 52.8,
+    "description": "Custom Dining Tables handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "100% Solid Seasoned Teak & BWP substrate",
+      "Single-slab timber with zero-wobble mortise joinery",
+      "Food-grade heat and stain-resistant PU finish",
+      "5-Year comprehensive studio warranty"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "DT-008",
+    "title": "Solid Teak Dining Table #08",
+    "slug": "dining-table-08",
+    "category": "dining",
+    "categoryLabel": "Dining Tables",
+    "categorySlug": "dining-table",
+    "room": "dining",
+    "roomLabel": "Dining Room",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Single-Slab Solid Teak",
+      "Italian Marble Inlay",
+      "American Walnut Polish",
+      "BWR Marine Substrate"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/dining-table/DT-008.webp",
+    "images": [
+      "/products/dining-table/DT-008.webp"
+    ],
+    "width": 564,
+    "height": 705,
+    "sizeKb": 99.3,
+    "description": "Custom Dining Tables handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "100% Solid Seasoned Teak & BWP substrate",
+      "Single-slab timber with zero-wobble mortise joinery",
+      "Food-grade heat and stain-resistant PU finish",
+      "5-Year comprehensive studio warranty"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "DT-009",
+    "title": "Solid Teak Dining Table #09",
+    "slug": "dining-table-09",
+    "category": "dining",
+    "categoryLabel": "Dining Tables",
+    "categorySlug": "dining-table",
+    "room": "dining",
+    "roomLabel": "Dining Room",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Single-Slab Solid Teak",
+      "Italian Marble Inlay",
+      "American Walnut Polish",
+      "BWR Marine Substrate"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/dining-table/DT-009.webp",
+    "images": [
+      "/products/dining-table/DT-009.webp"
+    ],
+    "width": 736,
+    "height": 736,
+    "sizeKb": 106.5,
+    "description": "Custom Dining Tables handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "100% Solid Seasoned Teak & BWP substrate",
+      "Single-slab timber with zero-wobble mortise joinery",
+      "Food-grade heat and stain-resistant PU finish",
+      "5-Year comprehensive studio warranty"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "DT-010",
+    "title": "Solid Teak Dining Table #10",
+    "slug": "dining-table-10",
+    "category": "dining",
+    "categoryLabel": "Dining Tables",
+    "categorySlug": "dining-table",
+    "room": "dining",
+    "roomLabel": "Dining Room",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": "Exclusive",
+    "woodOptions": [
+      "Single-Slab Solid Teak",
+      "Italian Marble Inlay",
+      "American Walnut Polish",
+      "BWR Marine Substrate"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/dining-table/DT-010.webp",
+    "images": [
+      "/products/dining-table/DT-010.webp"
+    ],
+    "width": 1040,
+    "height": 780,
+    "sizeKb": 51.7,
+    "description": "Custom Dining Tables handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "100% Solid Seasoned Teak & BWP substrate",
+      "Single-slab timber with zero-wobble mortise joinery",
+      "Food-grade heat and stain-resistant PU finish",
+      "5-Year comprehensive studio warranty"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "DT-011",
+    "title": "Solid Teak Dining Table #11",
+    "slug": "dining-table-11",
+    "category": "dining",
+    "categoryLabel": "Dining Tables",
+    "categorySlug": "dining-table",
+    "room": "dining",
+    "roomLabel": "Dining Room",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Single-Slab Solid Teak",
+      "Italian Marble Inlay",
+      "American Walnut Polish",
+      "BWR Marine Substrate"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/dining-table/DT-011.webp",
+    "images": [
+      "/products/dining-table/DT-011.webp"
+    ],
+    "width": 800,
+    "height": 1200,
+    "sizeKb": 97.3,
+    "description": "Custom Dining Tables handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "100% Solid Seasoned Teak & BWP substrate",
+      "Single-slab timber with zero-wobble mortise joinery",
+      "Food-grade heat and stain-resistant PU finish",
+      "5-Year comprehensive studio warranty"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "DT-012",
+    "title": "Solid Teak Dining Table #12",
+    "slug": "dining-table-12",
+    "category": "dining",
+    "categoryLabel": "Dining Tables",
+    "categorySlug": "dining-table",
+    "room": "dining",
+    "roomLabel": "Dining Room",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Single-Slab Solid Teak",
+      "Italian Marble Inlay",
+      "American Walnut Polish",
+      "BWR Marine Substrate"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/dining-table/DT-012.webp",
+    "images": [
+      "/products/dining-table/DT-012.webp"
+    ],
+    "width": 1024,
+    "height": 682,
+    "sizeKb": 49.0,
+    "description": "Custom Dining Tables handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "100% Solid Seasoned Teak & BWP substrate",
+      "Single-slab timber with zero-wobble mortise joinery",
+      "Food-grade heat and stain-resistant PU finish",
+      "5-Year comprehensive studio warranty"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "DT-013",
+    "title": "Solid Teak Dining Table #13",
+    "slug": "dining-table-13",
+    "category": "dining",
+    "categoryLabel": "Dining Tables",
+    "categorySlug": "dining-table",
+    "room": "dining",
+    "roomLabel": "Dining Room",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Single-Slab Solid Teak",
+      "Italian Marble Inlay",
+      "American Walnut Polish",
+      "BWR Marine Substrate"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/dining-table/DT-013.webp",
+    "images": [
+      "/products/dining-table/DT-013.webp"
+    ],
+    "width": 580,
+    "height": 385,
+    "sizeKb": 14.4,
+    "description": "Custom Dining Tables handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "100% Solid Seasoned Teak & BWP substrate",
+      "Single-slab timber with zero-wobble mortise joinery",
+      "Food-grade heat and stain-resistant PU finish",
+      "5-Year comprehensive studio warranty"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "DT-014",
+    "title": "Solid Teak Dining Table #14",
+    "slug": "dining-table-14",
+    "category": "dining",
+    "categoryLabel": "Dining Tables",
+    "categorySlug": "dining-table",
+    "room": "dining",
+    "roomLabel": "Dining Room",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Single-Slab Solid Teak",
+      "Italian Marble Inlay",
+      "American Walnut Polish",
+      "BWR Marine Substrate"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/dining-table/DT-014.webp",
+    "images": [
+      "/products/dining-table/DT-014.webp"
+    ],
+    "width": 600,
+    "height": 600,
+    "sizeKb": 29.0,
+    "description": "Custom Dining Tables handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "100% Solid Seasoned Teak & BWP substrate",
+      "Single-slab timber with zero-wobble mortise joinery",
+      "Food-grade heat and stain-resistant PU finish",
+      "5-Year comprehensive studio warranty"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "DT-015",
+    "title": "Solid Teak Dining Table #15",
+    "slug": "dining-table-15",
+    "category": "dining",
+    "categoryLabel": "Dining Tables",
+    "categorySlug": "dining-table",
+    "room": "dining",
+    "roomLabel": "Dining Room",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": "Exclusive",
+    "woodOptions": [
+      "Single-Slab Solid Teak",
+      "Italian Marble Inlay",
+      "American Walnut Polish",
+      "BWR Marine Substrate"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/dining-table/DT-015.webp",
+    "images": [
+      "/products/dining-table/DT-015.webp"
+    ],
+    "width": 1200,
+    "height": 1500,
+    "sizeKb": 159.3,
+    "description": "Custom Dining Tables handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "100% Solid Seasoned Teak & BWP substrate",
+      "Single-slab timber with zero-wobble mortise joinery",
+      "Food-grade heat and stain-resistant PU finish",
+      "5-Year comprehensive studio warranty"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "DT-016",
+    "title": "Solid Teak Dining Table #16",
+    "slug": "dining-table-16",
+    "category": "dining",
+    "categoryLabel": "Dining Tables",
+    "categorySlug": "dining-table",
+    "room": "dining",
+    "roomLabel": "Dining Room",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Single-Slab Solid Teak",
+      "Italian Marble Inlay",
+      "American Walnut Polish",
+      "BWR Marine Substrate"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/dining-table/DT-016.webp",
+    "images": [
+      "/products/dining-table/DT-016.webp"
+    ],
+    "width": 564,
+    "height": 564,
+    "sizeKb": 62.0,
+    "description": "Custom Dining Tables handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "100% Solid Seasoned Teak & BWP substrate",
+      "Single-slab timber with zero-wobble mortise joinery",
+      "Food-grade heat and stain-resistant PU finish",
+      "5-Year comprehensive studio warranty"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "DT-017",
+    "title": "Solid Teak Dining Table #17",
+    "slug": "dining-table-17",
+    "category": "dining",
+    "categoryLabel": "Dining Tables",
+    "categorySlug": "dining-table",
+    "room": "dining",
+    "roomLabel": "Dining Room",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Single-Slab Solid Teak",
+      "Italian Marble Inlay",
+      "American Walnut Polish",
+      "BWR Marine Substrate"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/dining-table/DT-017.webp",
+    "images": [
+      "/products/dining-table/DT-017.webp"
+    ],
+    "width": 736,
+    "height": 736,
+    "sizeKb": 8.0,
+    "description": "Custom Dining Tables handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "100% Solid Seasoned Teak & BWP substrate",
+      "Single-slab timber with zero-wobble mortise joinery",
+      "Food-grade heat and stain-resistant PU finish",
+      "5-Year comprehensive studio warranty"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "DT-018",
+    "title": "Solid Teak Dining Table #18",
+    "slug": "dining-table-18",
+    "category": "dining",
+    "categoryLabel": "Dining Tables",
+    "categorySlug": "dining-table",
+    "room": "dining",
+    "roomLabel": "Dining Room",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Single-Slab Solid Teak",
+      "Italian Marble Inlay",
+      "American Walnut Polish",
+      "BWR Marine Substrate"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/dining-table/DT-018.webp",
+    "images": [
+      "/products/dining-table/DT-018.webp"
+    ],
+    "width": 736,
+    "height": 736,
+    "sizeKb": 13.3,
+    "description": "Custom Dining Tables handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "100% Solid Seasoned Teak & BWP substrate",
+      "Single-slab timber with zero-wobble mortise joinery",
+      "Food-grade heat and stain-resistant PU finish",
+      "5-Year comprehensive studio warranty"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "DT-019",
+    "title": "Solid Teak Dining Table #19",
+    "slug": "dining-table-19",
+    "category": "dining",
+    "categoryLabel": "Dining Tables",
+    "categorySlug": "dining-table",
+    "room": "dining",
+    "roomLabel": "Dining Room",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Single-Slab Solid Teak",
+      "Italian Marble Inlay",
+      "American Walnut Polish",
+      "BWR Marine Substrate"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/dining-table/DT-019.webp",
+    "images": [
+      "/products/dining-table/DT-019.webp"
+    ],
+    "width": 1000,
+    "height": 1200,
+    "sizeKb": 56.3,
+    "description": "Custom Dining Tables handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "100% Solid Seasoned Teak & BWP substrate",
+      "Single-slab timber with zero-wobble mortise joinery",
+      "Food-grade heat and stain-resistant PU finish",
+      "5-Year comprehensive studio warranty"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "DT-020",
+    "title": "Solid Teak Dining Table #20",
+    "slug": "dining-table-20",
+    "category": "dining",
+    "categoryLabel": "Dining Tables",
+    "categorySlug": "dining-table",
+    "room": "dining",
+    "roomLabel": "Dining Room",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": "Exclusive",
+    "woodOptions": [
+      "Single-Slab Solid Teak",
+      "Italian Marble Inlay",
+      "American Walnut Polish",
+      "BWR Marine Substrate"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/dining-table/DT-020.webp",
+    "images": [
+      "/products/dining-table/DT-020.webp"
+    ],
+    "width": 300,
+    "height": 300,
+    "sizeKb": 13.4,
+    "description": "Custom Dining Tables handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "100% Solid Seasoned Teak & BWP substrate",
+      "Single-slab timber with zero-wobble mortise joinery",
+      "Food-grade heat and stain-resistant PU finish",
+      "5-Year comprehensive studio warranty"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "ED-001",
+    "title": "Executive Timber Desk #01",
+    "slug": "executive-desks-01",
+    "category": "office",
+    "categoryLabel": "Executive Desks",
+    "categorySlug": "executive-desks",
+    "room": "office",
+    "roomLabel": "Home Office",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": "Executive Suite",
+    "woodOptions": [
+      "Teakwood Polish & Solid Edge",
+      "Acoustic Wood Paneling",
+      "Matte PU Architectural Finish",
+      "High-Grade BWP Ply"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/executive-desks/ED-001.webp",
+    "images": [
+      "/products/executive-desks/ED-001.webp"
+    ],
+    "width": 736,
+    "height": 736,
+    "sizeKb": 90.5,
+    "description": "Custom Executive Desks handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Teakwood veneer with solid timber chamfered edging",
+      "Concealed wire management and power docks",
+      "German soft-close Blum/Hafele drawer runners",
+      "Built-in lockable document compartments"
+    ],
+    "featured": true,
+    "isFeatured": true,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "ED-002",
+    "title": "Executive Timber Desk #02",
+    "slug": "executive-desks-02",
+    "category": "office",
+    "categoryLabel": "Executive Desks",
+    "categorySlug": "executive-desks",
+    "room": "office",
+    "roomLabel": "Home Office",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": "Ergonomic Joinery",
+    "woodOptions": [
+      "Teakwood Polish & Solid Edge",
+      "Acoustic Wood Paneling",
+      "Matte PU Architectural Finish",
+      "High-Grade BWP Ply"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/executive-desks/ED-002.webp",
+    "images": [
+      "/products/executive-desks/ED-002.webp"
+    ],
+    "width": 320,
+    "height": 320,
+    "sizeKb": 5.6,
+    "description": "Custom Executive Desks handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Teakwood veneer with solid timber chamfered edging",
+      "Concealed wire management and power docks",
+      "German soft-close Blum/Hafele drawer runners",
+      "Built-in lockable document compartments"
+    ],
+    "featured": true,
+    "isFeatured": true,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "ED-003",
+    "title": "Executive Timber Desk #03",
+    "slug": "executive-desks-03",
+    "category": "office",
+    "categoryLabel": "Executive Desks",
+    "categorySlug": "executive-desks",
+    "room": "office",
+    "roomLabel": "Home Office",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": "Wire-Dock Integrated",
+    "woodOptions": [
+      "Teakwood Polish & Solid Edge",
+      "Acoustic Wood Paneling",
+      "Matte PU Architectural Finish",
+      "High-Grade BWP Ply"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/executive-desks/ED-003.webp",
+    "images": [
+      "/products/executive-desks/ED-003.webp"
+    ],
+    "width": 1200,
+    "height": 1200,
+    "sizeKb": 60.6,
+    "description": "Custom Executive Desks handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Teakwood veneer with solid timber chamfered edging",
+      "Concealed wire management and power docks",
+      "German soft-close Blum/Hafele drawer runners",
+      "Built-in lockable document compartments"
+    ],
+    "featured": true,
+    "isFeatured": true,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "ED-004",
+    "title": "Executive Timber Desk #04",
+    "slug": "executive-desks-04",
+    "category": "office",
+    "categoryLabel": "Executive Desks",
+    "categorySlug": "executive-desks",
+    "room": "office",
+    "roomLabel": "Home Office",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Teakwood Polish & Solid Edge",
+      "Acoustic Wood Paneling",
+      "Matte PU Architectural Finish",
+      "High-Grade BWP Ply"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/executive-desks/ED-004.webp",
+    "images": [
+      "/products/executive-desks/ED-004.webp"
+    ],
+    "width": 1200,
+    "height": 1500,
+    "sizeKb": 86.0,
+    "description": "Custom Executive Desks handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Teakwood veneer with solid timber chamfered edging",
+      "Concealed wire management and power docks",
+      "German soft-close Blum/Hafele drawer runners",
+      "Built-in lockable document compartments"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "ED-005",
+    "title": "Executive Timber Desk #05",
+    "slug": "executive-desks-05",
+    "category": "office",
+    "categoryLabel": "Executive Desks",
+    "categorySlug": "executive-desks",
+    "room": "office",
+    "roomLabel": "Home Office",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": "Best Seller",
+    "woodOptions": [
+      "Teakwood Polish & Solid Edge",
+      "Acoustic Wood Paneling",
+      "Matte PU Architectural Finish",
+      "High-Grade BWP Ply"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/executive-desks/ED-005.webp",
+    "images": [
+      "/products/executive-desks/ED-005.webp"
+    ],
+    "width": 736,
+    "height": 736,
+    "sizeKb": 29.3,
+    "description": "Custom Executive Desks handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Teakwood veneer with solid timber chamfered edging",
+      "Concealed wire management and power docks",
+      "German soft-close Blum/Hafele drawer runners",
+      "Built-in lockable document compartments"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "ED-006",
+    "title": "Executive Timber Desk #06",
+    "slug": "executive-desks-06",
+    "category": "office",
+    "categoryLabel": "Executive Desks",
+    "categorySlug": "executive-desks",
+    "room": "office",
+    "roomLabel": "Home Office",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Teakwood Polish & Solid Edge",
+      "Acoustic Wood Paneling",
+      "Matte PU Architectural Finish",
+      "High-Grade BWP Ply"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/executive-desks/ED-006.webp",
+    "images": [
+      "/products/executive-desks/ED-006.webp"
+    ],
+    "width": 736,
+    "height": 736,
+    "sizeKb": 34.3,
+    "description": "Custom Executive Desks handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Teakwood veneer with solid timber chamfered edging",
+      "Concealed wire management and power docks",
+      "German soft-close Blum/Hafele drawer runners",
+      "Built-in lockable document compartments"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "ED-007",
+    "title": "Executive Timber Desk #07",
+    "slug": "executive-desks-07",
+    "category": "office",
+    "categoryLabel": "Executive Desks",
+    "categorySlug": "executive-desks",
+    "room": "office",
+    "roomLabel": "Home Office",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Teakwood Polish & Solid Edge",
+      "Acoustic Wood Paneling",
+      "Matte PU Architectural Finish",
+      "High-Grade BWP Ply"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/executive-desks/ED-007.webp",
+    "images": [
+      "/products/executive-desks/ED-007.webp"
+    ],
+    "width": 736,
+    "height": 736,
+    "sizeKb": 7.5,
+    "description": "Custom Executive Desks handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Teakwood veneer with solid timber chamfered edging",
+      "Concealed wire management and power docks",
+      "German soft-close Blum/Hafele drawer runners",
+      "Built-in lockable document compartments"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "ED-008",
+    "title": "Executive Timber Desk #08",
+    "slug": "executive-desks-08",
+    "category": "office",
+    "categoryLabel": "Executive Desks",
+    "categorySlug": "executive-desks",
+    "room": "office",
+    "roomLabel": "Home Office",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Teakwood Polish & Solid Edge",
+      "Acoustic Wood Paneling",
+      "Matte PU Architectural Finish",
+      "High-Grade BWP Ply"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/executive-desks/ED-008.webp",
+    "images": [
+      "/products/executive-desks/ED-008.webp"
+    ],
+    "width": 1200,
+    "height": 1200,
+    "sizeKb": 61.0,
+    "description": "Custom Executive Desks handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Teakwood veneer with solid timber chamfered edging",
+      "Concealed wire management and power docks",
+      "German soft-close Blum/Hafele drawer runners",
+      "Built-in lockable document compartments"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "ED-009",
+    "title": "Executive Timber Desk #09",
+    "slug": "executive-desks-09",
+    "category": "office",
+    "categoryLabel": "Executive Desks",
+    "categorySlug": "executive-desks",
+    "room": "office",
+    "roomLabel": "Home Office",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Teakwood Polish & Solid Edge",
+      "Acoustic Wood Paneling",
+      "Matte PU Architectural Finish",
+      "High-Grade BWP Ply"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/executive-desks/ED-009.webp",
+    "images": [
+      "/products/executive-desks/ED-009.webp"
+    ],
+    "width": 902,
+    "height": 1600,
+    "sizeKb": 94.0,
+    "description": "Custom Executive Desks handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Teakwood veneer with solid timber chamfered edging",
+      "Concealed wire management and power docks",
+      "German soft-close Blum/Hafele drawer runners",
+      "Built-in lockable document compartments"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "ED-010",
+    "title": "Executive Timber Desk #10",
+    "slug": "executive-desks-10",
+    "category": "office",
+    "categoryLabel": "Executive Desks",
+    "categorySlug": "executive-desks",
+    "room": "office",
+    "roomLabel": "Home Office",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": "Best Seller",
+    "woodOptions": [
+      "Teakwood Polish & Solid Edge",
+      "Acoustic Wood Paneling",
+      "Matte PU Architectural Finish",
+      "High-Grade BWP Ply"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/executive-desks/ED-010.webp",
+    "images": [
+      "/products/executive-desks/ED-010.webp"
+    ],
+    "width": 736,
+    "height": 552,
+    "sizeKb": 61.7,
+    "description": "Custom Executive Desks handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Teakwood veneer with solid timber chamfered edging",
+      "Concealed wire management and power docks",
+      "German soft-close Blum/Hafele drawer runners",
+      "Built-in lockable document compartments"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "ED-011",
+    "title": "Executive Timber Desk #11",
+    "slug": "executive-desks-11",
+    "category": "office",
+    "categoryLabel": "Executive Desks",
+    "categorySlug": "executive-desks",
+    "room": "office",
+    "roomLabel": "Home Office",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Teakwood Polish & Solid Edge",
+      "Acoustic Wood Paneling",
+      "Matte PU Architectural Finish",
+      "High-Grade BWP Ply"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/executive-desks/ED-011.webp",
+    "images": [
+      "/products/executive-desks/ED-011.webp"
+    ],
+    "width": 736,
+    "height": 981,
+    "sizeKb": 50.2,
+    "description": "Custom Executive Desks handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Teakwood veneer with solid timber chamfered edging",
+      "Concealed wire management and power docks",
+      "German soft-close Blum/Hafele drawer runners",
+      "Built-in lockable document compartments"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "ED-012",
+    "title": "Executive Timber Desk #12",
+    "slug": "executive-desks-12",
+    "category": "office",
+    "categoryLabel": "Executive Desks",
+    "categorySlug": "executive-desks",
+    "room": "office",
+    "roomLabel": "Home Office",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Teakwood Polish & Solid Edge",
+      "Acoustic Wood Paneling",
+      "Matte PU Architectural Finish",
+      "High-Grade BWP Ply"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/executive-desks/ED-012.webp",
+    "images": [
+      "/products/executive-desks/ED-012.webp"
+    ],
+    "width": 736,
+    "height": 977,
+    "sizeKb": 76.5,
+    "description": "Custom Executive Desks handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Teakwood veneer with solid timber chamfered edging",
+      "Concealed wire management and power docks",
+      "German soft-close Blum/Hafele drawer runners",
+      "Built-in lockable document compartments"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "ED-013",
+    "title": "Executive Timber Desk #13",
+    "slug": "executive-desks-13",
+    "category": "office",
+    "categoryLabel": "Executive Desks",
+    "categorySlug": "executive-desks",
+    "room": "office",
+    "roomLabel": "Home Office",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Teakwood Polish & Solid Edge",
+      "Acoustic Wood Paneling",
+      "Matte PU Architectural Finish",
+      "High-Grade BWP Ply"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/executive-desks/ED-013.webp",
+    "images": [
+      "/products/executive-desks/ED-013.webp"
+    ],
+    "width": 1176,
+    "height": 1280,
+    "sizeKb": 87.0,
+    "description": "Custom Executive Desks handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Teakwood veneer with solid timber chamfered edging",
+      "Concealed wire management and power docks",
+      "German soft-close Blum/Hafele drawer runners",
+      "Built-in lockable document compartments"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "ED-014",
+    "title": "Executive Timber Desk #14",
+    "slug": "executive-desks-14",
+    "category": "office",
+    "categoryLabel": "Executive Desks",
+    "categorySlug": "executive-desks",
+    "room": "office",
+    "roomLabel": "Home Office",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Teakwood Polish & Solid Edge",
+      "Acoustic Wood Paneling",
+      "Matte PU Architectural Finish",
+      "High-Grade BWP Ply"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/executive-desks/ED-014.webp",
+    "images": [
+      "/products/executive-desks/ED-014.webp"
+    ],
+    "width": 828,
+    "height": 1097,
+    "sizeKb": 83.4,
+    "description": "Custom Executive Desks handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Teakwood veneer with solid timber chamfered edging",
+      "Concealed wire management and power docks",
+      "German soft-close Blum/Hafele drawer runners",
+      "Built-in lockable document compartments"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "ED-015",
+    "title": "Executive Timber Desk #15",
+    "slug": "executive-desks-15",
+    "category": "office",
+    "categoryLabel": "Executive Desks",
+    "categorySlug": "executive-desks",
+    "room": "office",
+    "roomLabel": "Home Office",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": "Best Seller",
+    "woodOptions": [
+      "Teakwood Polish & Solid Edge",
+      "Acoustic Wood Paneling",
+      "Matte PU Architectural Finish",
+      "High-Grade BWP Ply"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/executive-desks/ED-015.webp",
+    "images": [
+      "/products/executive-desks/ED-015.webp"
+    ],
+    "width": 720,
+    "height": 960,
+    "sizeKb": 50.0,
+    "description": "Custom Executive Desks handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Teakwood veneer with solid timber chamfered edging",
+      "Concealed wire management and power docks",
+      "German soft-close Blum/Hafele drawer runners",
+      "Built-in lockable document compartments"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "ED-016",
+    "title": "Executive Timber Desk #16",
+    "slug": "executive-desks-16",
+    "category": "office",
+    "categoryLabel": "Executive Desks",
+    "categorySlug": "executive-desks",
+    "room": "office",
+    "roomLabel": "Home Office",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Teakwood Polish & Solid Edge",
+      "Acoustic Wood Paneling",
+      "Matte PU Architectural Finish",
+      "High-Grade BWP Ply"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/executive-desks/ED-016.webp",
+    "images": [
+      "/products/executive-desks/ED-016.webp"
+    ],
+    "width": 736,
+    "height": 1308,
+    "sizeKb": 51.9,
+    "description": "Custom Executive Desks handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Teakwood veneer with solid timber chamfered edging",
+      "Concealed wire management and power docks",
+      "German soft-close Blum/Hafele drawer runners",
+      "Built-in lockable document compartments"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "ED-017",
+    "title": "Executive Timber Desk #17",
+    "slug": "executive-desks-17",
+    "category": "office",
+    "categoryLabel": "Executive Desks",
+    "categorySlug": "executive-desks",
+    "room": "office",
+    "roomLabel": "Home Office",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Teakwood Polish & Solid Edge",
+      "Acoustic Wood Paneling",
+      "Matte PU Architectural Finish",
+      "High-Grade BWP Ply"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/executive-desks/ED-017.webp",
+    "images": [
+      "/products/executive-desks/ED-017.webp"
+    ],
+    "width": 564,
+    "height": 752,
+    "sizeKb": 11.9,
+    "description": "Custom Executive Desks handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Teakwood veneer with solid timber chamfered edging",
+      "Concealed wire management and power docks",
+      "German soft-close Blum/Hafele drawer runners",
+      "Built-in lockable document compartments"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "ED-018",
+    "title": "Executive Timber Desk #18",
+    "slug": "executive-desks-18",
+    "category": "office",
+    "categoryLabel": "Executive Desks",
+    "categorySlug": "executive-desks",
+    "room": "office",
+    "roomLabel": "Home Office",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Teakwood Polish & Solid Edge",
+      "Acoustic Wood Paneling",
+      "Matte PU Architectural Finish",
+      "High-Grade BWP Ply"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/executive-desks/ED-018.webp",
+    "images": [
+      "/products/executive-desks/ED-018.webp"
+    ],
+    "width": 236,
+    "height": 309,
+    "sizeKb": 6.1,
+    "description": "Custom Executive Desks handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Teakwood veneer with solid timber chamfered edging",
+      "Concealed wire management and power docks",
+      "German soft-close Blum/Hafele drawer runners",
+      "Built-in lockable document compartments"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "ED-019",
+    "title": "Executive Timber Desk #19",
+    "slug": "executive-desks-19",
+    "category": "office",
+    "categoryLabel": "Executive Desks",
+    "categorySlug": "executive-desks",
+    "room": "office",
+    "roomLabel": "Home Office",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Teakwood Polish & Solid Edge",
+      "Acoustic Wood Paneling",
+      "Matte PU Architectural Finish",
+      "High-Grade BWP Ply"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/executive-desks/ED-019.webp",
+    "images": [
+      "/products/executive-desks/ED-019.webp"
+    ],
+    "width": 685,
+    "height": 646,
+    "sizeKb": 18.0,
+    "description": "Custom Executive Desks handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Teakwood veneer with solid timber chamfered edging",
+      "Concealed wire management and power docks",
+      "German soft-close Blum/Hafele drawer runners",
+      "Built-in lockable document compartments"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "ED-020",
+    "title": "Executive Timber Desk #20",
+    "slug": "executive-desks-20",
+    "category": "office",
+    "categoryLabel": "Executive Desks",
+    "categorySlug": "executive-desks",
+    "room": "office",
+    "roomLabel": "Home Office",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": "Best Seller",
+    "woodOptions": [
+      "Teakwood Polish & Solid Edge",
+      "Acoustic Wood Paneling",
+      "Matte PU Architectural Finish",
+      "High-Grade BWP Ply"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/executive-desks/ED-020.webp",
+    "images": [
+      "/products/executive-desks/ED-020.webp"
+    ],
+    "width": 736,
+    "height": 736,
+    "sizeKb": 21.1,
+    "description": "Custom Executive Desks handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Teakwood veneer with solid timber chamfered edging",
+      "Concealed wire management and power docks",
+      "German soft-close Blum/Hafele drawer runners",
+      "Built-in lockable document compartments"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "BP-001",
+    "title": "All-Weather Patio Lounger #01",
+    "slug": "balcony-patio-01",
+    "category": "outdoor",
+    "categoryLabel": "Balcony & Patio",
+    "categorySlug": "balcony-patio",
+    "room": "outdoor",
+    "roomLabel": "Outdoor & Patio",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": "All-Weather Teak",
+    "woodOptions": [
+      "Weather-Treated Plantation Teak",
+      "100% BWP Marine Substrate",
+      "304 Stainless Steel Hardware",
+      "UV-Resistant Outdoor Fabric"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/balcony-patio/BP-001.webp",
+    "images": [
+      "/products/balcony-patio/BP-001.webp"
+    ],
+    "width": 720,
+    "height": 1280,
+    "sizeKb": 110.1,
+    "description": "Custom Balcony & Patio handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Weather-treated seasoned teak framing",
+      "100% boiling-water-proof exterior marine core",
+      "Rust-proof 304-grade stainless steel fittings",
+      "Water-repellent and UV-resistant outdoor cushions"
+    ],
+    "featured": true,
+    "isFeatured": true,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "BP-002",
+    "title": "All-Weather Patio Lounger #02",
+    "slug": "balcony-patio-02",
+    "category": "outdoor",
+    "categoryLabel": "Balcony & Patio",
+    "categorySlug": "balcony-patio",
+    "room": "outdoor",
+    "roomLabel": "Outdoor & Patio",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": "UV & Rain Resistant",
+    "woodOptions": [
+      "Weather-Treated Plantation Teak",
+      "100% BWP Marine Substrate",
+      "304 Stainless Steel Hardware",
+      "UV-Resistant Outdoor Fabric"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/balcony-patio/BP-002.webp",
+    "images": [
+      "/products/balcony-patio/BP-002.webp"
+    ],
+    "width": 1134,
+    "height": 1540,
+    "sizeKb": 107.2,
+    "description": "Custom Balcony & Patio handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Weather-treated seasoned teak framing",
+      "100% boiling-water-proof exterior marine core",
+      "Rust-proof 304-grade stainless steel fittings",
+      "Water-repellent and UV-resistant outdoor cushions"
+    ],
+    "featured": true,
+    "isFeatured": true,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "BP-003",
+    "title": "All-Weather Patio Lounger #03",
+    "slug": "balcony-patio-03",
+    "category": "outdoor",
+    "categoryLabel": "Balcony & Patio",
+    "categorySlug": "balcony-patio",
+    "room": "outdoor",
+    "roomLabel": "Outdoor & Patio",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": "Exclusive",
+    "woodOptions": [
+      "Weather-Treated Plantation Teak",
+      "100% BWP Marine Substrate",
+      "304 Stainless Steel Hardware",
+      "UV-Resistant Outdoor Fabric"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/balcony-patio/BP-003.webp",
+    "images": [
+      "/products/balcony-patio/BP-003.webp"
+    ],
+    "width": 1000,
+    "height": 1333,
+    "sizeKb": 112.2,
+    "description": "Custom Balcony & Patio handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Weather-treated seasoned teak framing",
+      "100% boiling-water-proof exterior marine core",
+      "Rust-proof 304-grade stainless steel fittings",
+      "Water-repellent and UV-resistant outdoor cushions"
+    ],
+    "featured": true,
+    "isFeatured": true,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "BP-004",
+    "title": "All-Weather Patio Lounger #04",
+    "slug": "balcony-patio-04",
+    "category": "outdoor",
+    "categoryLabel": "Balcony & Patio",
+    "categorySlug": "balcony-patio",
+    "room": "outdoor",
+    "roomLabel": "Outdoor & Patio",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Weather-Treated Plantation Teak",
+      "100% BWP Marine Substrate",
+      "304 Stainless Steel Hardware",
+      "UV-Resistant Outdoor Fabric"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/balcony-patio/BP-004.webp",
+    "images": [
+      "/products/balcony-patio/BP-004.webp"
+    ],
+    "width": 736,
+    "height": 1104,
+    "sizeKb": 100.6,
+    "description": "Custom Balcony & Patio handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Weather-treated seasoned teak framing",
+      "100% boiling-water-proof exterior marine core",
+      "Rust-proof 304-grade stainless steel fittings",
+      "Water-repellent and UV-resistant outdoor cushions"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "BP-005",
+    "title": "All-Weather Patio Lounger #05",
+    "slug": "balcony-patio-05",
+    "category": "outdoor",
+    "categoryLabel": "Balcony & Patio",
+    "categorySlug": "balcony-patio",
+    "room": "outdoor",
+    "roomLabel": "Outdoor & Patio",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": "Best Seller",
+    "woodOptions": [
+      "Weather-Treated Plantation Teak",
+      "100% BWP Marine Substrate",
+      "304 Stainless Steel Hardware",
+      "UV-Resistant Outdoor Fabric"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/balcony-patio/BP-005.webp",
+    "images": [
+      "/products/balcony-patio/BP-005.webp"
+    ],
+    "width": 540,
+    "height": 960,
+    "sizeKb": 77.6,
+    "description": "Custom Balcony & Patio handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Weather-treated seasoned teak framing",
+      "100% boiling-water-proof exterior marine core",
+      "Rust-proof 304-grade stainless steel fittings",
+      "Water-repellent and UV-resistant outdoor cushions"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "BP-006",
+    "title": "All-Weather Patio Lounger #06",
+    "slug": "balcony-patio-06",
+    "category": "outdoor",
+    "categoryLabel": "Balcony & Patio",
+    "categorySlug": "balcony-patio",
+    "room": "outdoor",
+    "roomLabel": "Outdoor & Patio",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Weather-Treated Plantation Teak",
+      "100% BWP Marine Substrate",
+      "304 Stainless Steel Hardware",
+      "UV-Resistant Outdoor Fabric"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/balcony-patio/BP-006.webp",
+    "images": [
+      "/products/balcony-patio/BP-006.webp"
+    ],
+    "width": 832,
+    "height": 1248,
+    "sizeKb": 100.2,
+    "description": "Custom Balcony & Patio handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Weather-treated seasoned teak framing",
+      "100% boiling-water-proof exterior marine core",
+      "Rust-proof 304-grade stainless steel fittings",
+      "Water-repellent and UV-resistant outdoor cushions"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "BP-007",
+    "title": "All-Weather Patio Lounger #07",
+    "slug": "balcony-patio-07",
+    "category": "outdoor",
+    "categoryLabel": "Balcony & Patio",
+    "categorySlug": "balcony-patio",
+    "room": "outdoor",
+    "roomLabel": "Outdoor & Patio",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Weather-Treated Plantation Teak",
+      "100% BWP Marine Substrate",
+      "304 Stainless Steel Hardware",
+      "UV-Resistant Outdoor Fabric"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/balcony-patio/BP-007.webp",
+    "images": [
+      "/products/balcony-patio/BP-007.webp"
+    ],
+    "width": 736,
+    "height": 1104,
+    "sizeKb": 66.2,
+    "description": "Custom Balcony & Patio handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Weather-treated seasoned teak framing",
+      "100% boiling-water-proof exterior marine core",
+      "Rust-proof 304-grade stainless steel fittings",
+      "Water-repellent and UV-resistant outdoor cushions"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "BP-008",
+    "title": "All-Weather Patio Lounger #08",
+    "slug": "balcony-patio-08",
+    "category": "outdoor",
+    "categoryLabel": "Balcony & Patio",
+    "categorySlug": "balcony-patio",
+    "room": "outdoor",
+    "roomLabel": "Outdoor & Patio",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Weather-Treated Plantation Teak",
+      "100% BWP Marine Substrate",
+      "304 Stainless Steel Hardware",
+      "UV-Resistant Outdoor Fabric"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/balcony-patio/BP-008.webp",
+    "images": [
+      "/products/balcony-patio/BP-008.webp"
+    ],
+    "width": 736,
+    "height": 981,
+    "sizeKb": 83.9,
+    "description": "Custom Balcony & Patio handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Weather-treated seasoned teak framing",
+      "100% boiling-water-proof exterior marine core",
+      "Rust-proof 304-grade stainless steel fittings",
+      "Water-repellent and UV-resistant outdoor cushions"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "BP-009",
+    "title": "All-Weather Patio Lounger #09",
+    "slug": "balcony-patio-09",
+    "category": "outdoor",
+    "categoryLabel": "Balcony & Patio",
+    "categorySlug": "balcony-patio",
+    "room": "outdoor",
+    "roomLabel": "Outdoor & Patio",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Weather-Treated Plantation Teak",
+      "100% BWP Marine Substrate",
+      "304 Stainless Steel Hardware",
+      "UV-Resistant Outdoor Fabric"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/balcony-patio/BP-009.webp",
+    "images": [
+      "/products/balcony-patio/BP-009.webp"
+    ],
+    "width": 1086,
+    "height": 1449,
+    "sizeKb": 202.6,
+    "description": "Custom Balcony & Patio handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Weather-treated seasoned teak framing",
+      "100% boiling-water-proof exterior marine core",
+      "Rust-proof 304-grade stainless steel fittings",
+      "Water-repellent and UV-resistant outdoor cushions"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "BP-010",
+    "title": "All-Weather Patio Lounger #10",
+    "slug": "balcony-patio-10",
+    "category": "outdoor",
+    "categoryLabel": "Balcony & Patio",
+    "categorySlug": "balcony-patio",
+    "room": "outdoor",
+    "roomLabel": "Outdoor & Patio",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": "Best Seller",
+    "woodOptions": [
+      "Weather-Treated Plantation Teak",
+      "100% BWP Marine Substrate",
+      "304 Stainless Steel Hardware",
+      "UV-Resistant Outdoor Fabric"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/balcony-patio/BP-010.webp",
+    "images": [
+      "/products/balcony-patio/BP-010.webp"
+    ],
+    "width": 736,
+    "height": 1182,
+    "sizeKb": 63.4,
+    "description": "Custom Balcony & Patio handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Weather-treated seasoned teak framing",
+      "100% boiling-water-proof exterior marine core",
+      "Rust-proof 304-grade stainless steel fittings",
+      "Water-repellent and UV-resistant outdoor cushions"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "BP-011",
+    "title": "All-Weather Patio Lounger #11",
+    "slug": "balcony-patio-11",
+    "category": "outdoor",
+    "categoryLabel": "Balcony & Patio",
+    "categorySlug": "balcony-patio",
+    "room": "outdoor",
+    "roomLabel": "Outdoor & Patio",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Weather-Treated Plantation Teak",
+      "100% BWP Marine Substrate",
+      "304 Stainless Steel Hardware",
+      "UV-Resistant Outdoor Fabric"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/balcony-patio/BP-011.webp",
+    "images": [
+      "/products/balcony-patio/BP-011.webp"
+    ],
+    "width": 896,
+    "height": 1344,
+    "sizeKb": 277.0,
+    "description": "Custom Balcony & Patio handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Weather-treated seasoned teak framing",
+      "100% boiling-water-proof exterior marine core",
+      "Rust-proof 304-grade stainless steel fittings",
+      "Water-repellent and UV-resistant outdoor cushions"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "BP-012",
+    "title": "All-Weather Patio Lounger #12",
+    "slug": "balcony-patio-12",
+    "category": "outdoor",
+    "categoryLabel": "Balcony & Patio",
+    "categorySlug": "balcony-patio",
+    "room": "outdoor",
+    "roomLabel": "Outdoor & Patio",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Weather-Treated Plantation Teak",
+      "100% BWP Marine Substrate",
+      "304 Stainless Steel Hardware",
+      "UV-Resistant Outdoor Fabric"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/balcony-patio/BP-012.webp",
+    "images": [
+      "/products/balcony-patio/BP-012.webp"
+    ],
+    "width": 1199,
+    "height": 1482,
+    "sizeKb": 171.3,
+    "description": "Custom Balcony & Patio handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Weather-treated seasoned teak framing",
+      "100% boiling-water-proof exterior marine core",
+      "Rust-proof 304-grade stainless steel fittings",
+      "Water-repellent and UV-resistant outdoor cushions"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "BP-013",
+    "title": "All-Weather Patio Lounger #13",
+    "slug": "balcony-patio-13",
+    "category": "outdoor",
+    "categoryLabel": "Balcony & Patio",
+    "categorySlug": "balcony-patio",
+    "room": "outdoor",
+    "roomLabel": "Outdoor & Patio",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Weather-Treated Plantation Teak",
+      "100% BWP Marine Substrate",
+      "304 Stainless Steel Hardware",
+      "UV-Resistant Outdoor Fabric"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/balcony-patio/BP-013.webp",
+    "images": [
+      "/products/balcony-patio/BP-013.webp"
+    ],
+    "width": 885,
+    "height": 727,
+    "sizeKb": 103.9,
+    "description": "Custom Balcony & Patio handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Weather-treated seasoned teak framing",
+      "100% boiling-water-proof exterior marine core",
+      "Rust-proof 304-grade stainless steel fittings",
+      "Water-repellent and UV-resistant outdoor cushions"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "BP-014",
+    "title": "All-Weather Patio Lounger #14",
+    "slug": "balcony-patio-14",
+    "category": "outdoor",
+    "categoryLabel": "Balcony & Patio",
+    "categorySlug": "balcony-patio",
+    "room": "outdoor",
+    "roomLabel": "Outdoor & Patio",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Weather-Treated Plantation Teak",
+      "100% BWP Marine Substrate",
+      "304 Stainless Steel Hardware",
+      "UV-Resistant Outdoor Fabric"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/balcony-patio/BP-014.webp",
+    "images": [
+      "/products/balcony-patio/BP-014.webp"
+    ],
+    "width": 720,
+    "height": 1029,
+    "sizeKb": 115.4,
+    "description": "Custom Balcony & Patio handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Weather-treated seasoned teak framing",
+      "100% boiling-water-proof exterior marine core",
+      "Rust-proof 304-grade stainless steel fittings",
+      "Water-repellent and UV-resistant outdoor cushions"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "BP-015",
+    "title": "All-Weather Patio Lounger #15",
+    "slug": "balcony-patio-15",
+    "category": "outdoor",
+    "categoryLabel": "Balcony & Patio",
+    "categorySlug": "balcony-patio",
+    "room": "outdoor",
+    "roomLabel": "Outdoor & Patio",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": "Best Seller",
+    "woodOptions": [
+      "Weather-Treated Plantation Teak",
+      "100% BWP Marine Substrate",
+      "304 Stainless Steel Hardware",
+      "UV-Resistant Outdoor Fabric"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/balcony-patio/BP-015.webp",
+    "images": [
+      "/products/balcony-patio/BP-015.webp"
+    ],
+    "width": 736,
+    "height": 985,
+    "sizeKb": 119.2,
+    "description": "Custom Balcony & Patio handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Weather-treated seasoned teak framing",
+      "100% boiling-water-proof exterior marine core",
+      "Rust-proof 304-grade stainless steel fittings",
+      "Water-repellent and UV-resistant outdoor cushions"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "BP-016",
+    "title": "All-Weather Patio Lounger #16",
+    "slug": "balcony-patio-16",
+    "category": "outdoor",
+    "categoryLabel": "Balcony & Patio",
+    "categorySlug": "balcony-patio",
+    "room": "outdoor",
+    "roomLabel": "Outdoor & Patio",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Weather-Treated Plantation Teak",
+      "100% BWP Marine Substrate",
+      "304 Stainless Steel Hardware",
+      "UV-Resistant Outdoor Fabric"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/balcony-patio/BP-016.webp",
+    "images": [
+      "/products/balcony-patio/BP-016.webp"
+    ],
+    "width": 736,
+    "height": 736,
+    "sizeKb": 144.9,
+    "description": "Custom Balcony & Patio handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Weather-treated seasoned teak framing",
+      "100% boiling-water-proof exterior marine core",
+      "Rust-proof 304-grade stainless steel fittings",
+      "Water-repellent and UV-resistant outdoor cushions"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "BP-017",
+    "title": "All-Weather Patio Lounger #17",
+    "slug": "balcony-patio-17",
+    "category": "outdoor",
+    "categoryLabel": "Balcony & Patio",
+    "categorySlug": "balcony-patio",
+    "room": "outdoor",
+    "roomLabel": "Outdoor & Patio",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Weather-Treated Plantation Teak",
+      "100% BWP Marine Substrate",
+      "304 Stainless Steel Hardware",
+      "UV-Resistant Outdoor Fabric"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/balcony-patio/BP-017.webp",
+    "images": [
+      "/products/balcony-patio/BP-017.webp"
+    ],
+    "width": 1200,
+    "height": 1349,
+    "sizeKb": 219.7,
+    "description": "Custom Balcony & Patio handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Weather-treated seasoned teak framing",
+      "100% boiling-water-proof exterior marine core",
+      "Rust-proof 304-grade stainless steel fittings",
+      "Water-repellent and UV-resistant outdoor cushions"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "BP-018",
+    "title": "All-Weather Patio Lounger #18",
+    "slug": "balcony-patio-18",
+    "category": "outdoor",
+    "categoryLabel": "Balcony & Patio",
+    "categorySlug": "balcony-patio",
+    "room": "outdoor",
+    "roomLabel": "Outdoor & Patio",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Weather-Treated Plantation Teak",
+      "100% BWP Marine Substrate",
+      "304 Stainless Steel Hardware",
+      "UV-Resistant Outdoor Fabric"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/balcony-patio/BP-018.webp",
+    "images": [
+      "/products/balcony-patio/BP-018.webp"
+    ],
+    "width": 720,
+    "height": 1080,
+    "sizeKb": 91.3,
+    "description": "Custom Balcony & Patio handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Weather-treated seasoned teak framing",
+      "100% boiling-water-proof exterior marine core",
+      "Rust-proof 304-grade stainless steel fittings",
+      "Water-repellent and UV-resistant outdoor cushions"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "BP-019",
+    "title": "All-Weather Patio Lounger #19",
+    "slug": "balcony-patio-19",
+    "category": "outdoor",
+    "categoryLabel": "Balcony & Patio",
+    "categorySlug": "balcony-patio",
+    "room": "outdoor",
+    "roomLabel": "Outdoor & Patio",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": null,
+    "woodOptions": [
+      "Weather-Treated Plantation Teak",
+      "100% BWP Marine Substrate",
+      "304 Stainless Steel Hardware",
+      "UV-Resistant Outdoor Fabric"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/balcony-patio/BP-019.webp",
+    "images": [
+      "/products/balcony-patio/BP-019.webp"
+    ],
+    "width": 736,
+    "height": 1104,
+    "sizeKb": 140.0,
+    "description": "Custom Balcony & Patio handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Weather-treated seasoned teak framing",
+      "100% boiling-water-proof exterior marine core",
+      "Rust-proof 304-grade stainless steel fittings",
+      "Water-repellent and UV-resistant outdoor cushions"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "BP-020",
+    "title": "All-Weather Patio Lounger #20",
+    "slug": "balcony-patio-20",
+    "category": "outdoor",
+    "categoryLabel": "Balcony & Patio",
+    "categorySlug": "balcony-patio",
+    "room": "outdoor",
+    "roomLabel": "Outdoor & Patio",
+    "price": "Custom Quote (Factory Direct)",
+    "badge": "Best Seller",
+    "woodOptions": [
+      "Weather-Treated Plantation Teak",
+      "100% BWP Marine Substrate",
+      "304 Stainless Steel Hardware",
+      "UV-Resistant Outdoor Fabric"
+    ],
+    "dimensions": "Customized to Site Measurements",
+    "image": "/products/balcony-patio/BP-020.webp",
+    "images": [
+      "/products/balcony-patio/BP-020.webp"
+    ],
+    "width": 736,
+    "height": 1312,
+    "sizeKb": 164.7,
+    "description": "Custom Balcony & Patio handcrafted by Dev Elite Interiors. Precision joinery, premium seasoned substrates, and architectural European fittings.",
+    "features": [
+      "Weather-treated seasoned teak framing",
+      "100% boiling-water-proof exterior marine core",
+      "Rust-proof 304-grade stainless steel fittings",
+      "Water-repellent and UV-resistant outdoor cushions"
+    ],
+    "featured": false,
+    "isFeatured": false,
+    "createdAt": "2026-10-12"
   }
 ]

@@ -38,7 +38,7 @@ const ROOM_TABS = [
     id: "dining",
     title: "Dining Room",
     subtitle: "Celebrations Around Heirloom Wood",
-    image: "/products/signature-showcase/SIG-003.webp",
+    image: "/products/dining-table/DT-001.webp",
     description: "Single-slab solid teak live-edge dining tables, ergonomic velvet dining chairs, and illuminated crockery showcases.",
     items: [
       "6 & 8-Seater live edge solid timber tables",
@@ -66,7 +66,7 @@ const ROOM_TABS = [
     id: "office",
     title: "Home Office",
     subtitle: "Focus, Prestige & Ergonomic Grace",
-    image: "/products/tv-unit/TV-001.webp",
+    image: "/products/executive-desks/ED-001.webp",
     description: "Solid wood executive desks with wire docks, floor-to-ceiling library shelving, and bespoke executive acoustics.",
     items: [
       "Teak executive desks with leather writing inlays",
@@ -75,6 +75,20 @@ const ROOM_TABS = [
       "Cable-free cable routing conduits",
     ],
     link: "/products?room=office",
+  },
+  {
+    id: "outdoor",
+    title: "Balcony & Patio",
+    subtitle: "Alfresco Elegance & All-Weather Living",
+    image: "/products/balcony-patio/BP-001.webp",
+    description: "Weather-treated plantation teak loungers, waterproof marine cabinetry, 304-grade steel planters, and ambient outdoor living suites.",
+    items: [
+      "All-weather solid teak lounge seating",
+      "Weatherproof UV & water-repellent cushions",
+      "Outdoor bar counters with quartz tops",
+      "Rust-proof 304 stainless steel hardware",
+    ],
+    link: "/products?room=outdoor",
   },
 ];
 

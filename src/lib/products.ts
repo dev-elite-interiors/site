@@ -19,6 +19,9 @@ export const CATEGORIES = [
   { slug: "bedroom", name: "Luxury Bedrooms" },
   { slug: "wardrobe", name: "Custom Wardrobes" },
   { slug: "tv-unit", name: "TV Units & Consoles" },
+  { slug: "dining-table", name: "Dining Tables" },
+  { slug: "executive-desks", name: "Executive Desks" },
+  { slug: "balcony-patio", name: "Balcony & Patio" },
   { slug: "false-ceiling", name: "False Ceilings & Lighting" },
   { slug: "signature-showcase", name: "Signature Showcase" },
 ] as const;
