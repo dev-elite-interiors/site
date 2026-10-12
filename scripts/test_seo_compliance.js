@@ -59,6 +59,8 @@ function runSeoTests() {
   assert(layoutContent.includes('G-SCRG1VN15V'), 'layout.tsx configures Google Analytics tag (G-SCRG1VN15V)');
   assert(layoutContent.includes('GTM-KGVFQWWX'), 'layout.tsx configures Google Tag Manager container (GTM-KGVFQWWX)');
   assert(layoutContent.includes('https://www.googletagmanager.com/ns.html?id=GTM-KGVFQWWX'), 'layout.tsx configures GTM noscript fallback iframe');
+  assert(layoutContent.includes('1507510584732428'), 'layout.tsx configures Meta Pixel ID (1507510584732428)');
+  assert(layoutContent.includes('https://www.facebook.com/tr?id=1507510584732428'), 'layout.tsx configures Meta Pixel noscript tracking pixel');
 
   // 5. Schema Component & Definitions check
   const schemaComponentPath = path.join(__dirname, '..', 'src', 'components', 'StructuredData.tsx');
