@@ -56,6 +56,7 @@ function runSeoTests() {
   assert(layoutContent.includes('openGraph'), 'layout.tsx sets Open Graph tags');
   assert(layoutContent.includes('twitter:'), 'layout.tsx sets Twitter Card tags');
   assert(layoutContent.includes('application/ld+json'), 'layout.tsx injects Schema.org JSON-LD structured data');
+  assert(layoutContent.includes('G-SCRG1VN15V'), 'layout.tsx configures Google Analytics tag (G-SCRG1VN15V)');
 
   // 5. Schema Component & Definitions check
   const schemaComponentPath = path.join(__dirname, '..', 'src', 'components', 'StructuredData.tsx');
