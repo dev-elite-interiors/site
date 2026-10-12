@@ -8,7 +8,7 @@ interface CTAButtonProps {
   variant?: "primary" | "secondary" | "gold-outline" | "ghost-dark";
 }
 
-const WHATSAPP_NUMBER = "919876543210"; // Official studio line
+const WHATSAPP_NUMBER = "917368032697"; // Official studio line
 
 export default function CTAButton({
   children,

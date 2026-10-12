@@ -18,7 +18,7 @@ export default function ContactPage() {
     const whatsappText = `Namaste Dev Elite Interiors,\n\nI would like to schedule a private consultation.\n\nName: ${formData.name}\nPhone: ${formData.phone}\nProperty / Service: ${formData.propertyType}\nProject Notes: ${formData.message || "Please contact me for initial floor plan review."}`;
 
     window.open(
-      `https://wa.me/919876543210?text=${encodeURIComponent(whatsappText)}`,
+      `https://wa.me/917368032697?text=${encodeURIComponent(whatsappText)}`,
       "_blank"
     );
   };
@@ -146,6 +146,31 @@ export default function ContactPage() {
                 <CTAButton size="md" variant="primary" className="w-full justify-center">
                   Open WhatsApp Chat ↗
                 </CTAButton>
+              </div>
+
+              {/* Studio Concierge & Phone */}
+              <div className="card-clean p-7">
+                <h3 className="text-xl font-normal text-[var(--color-primary-green)] mb-4">
+                  Studio Concierge & Inquiries
+                </h3>
+                <div className="space-y-3 text-sm">
+                  <div className="flex justify-between border-b border-[var(--color-border-subtle)] pb-2">
+                    <span className="text-[var(--color-text-medium)] font-light">Official Line</span>
+                    <a href="tel:+917368032697" className="font-semibold text-[var(--color-primary-green)] hover:text-[var(--color-gold-dark)]">
+                      +91 73680 32697
+                    </a>
+                  </div>
+                  <div className="flex justify-between border-b border-[var(--color-border-subtle)] pb-2">
+                    <span className="text-[var(--color-text-medium)] font-light">Direct Email</span>
+                    <a href="mailto:info.develiteinteriors@gmail.com" className="font-semibold text-[var(--color-primary-green)] hover:text-[var(--color-gold-dark)]">
+                      info.develiteinteriors@gmail.com
+                    </a>
+                  </div>
+                  <div className="flex justify-between pt-1">
+                    <span className="text-[var(--color-text-medium)] font-light">Atelier Hubs</span>
+                    <span className="font-semibold text-[var(--color-gold-dark)]">Kolkata & New Delhi</span>
+                  </div>
+                </div>
               </div>
 
               {/* Working Hours */}

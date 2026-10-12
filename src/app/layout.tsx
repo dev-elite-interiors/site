@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import StructuredData from "@/components/StructuredData";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://develiteinteriors.com"),
@@ -39,6 +40,13 @@ export const metadata: Metadata = {
       },
     ],
   },
+  twitter: {
+    card: "summary_large_image",
+    title: "Dev Elite Interiors | Elegance. Crafted with Intention.",
+    description:
+      "Luxury interior design, bespoke modular furniture, and turnkey residential architecture.",
+    images: ["/logo.png"],
+  },
 };
 
 export default function RootLayout({
@@ -48,6 +56,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        {/* Schema.org application/ld+json Structured Data */}
+        <StructuredData />
+      </head>
       <body className="antialiased min-h-screen bg-white text-[var(--color-text-dark)]">
         {children}
       </body>

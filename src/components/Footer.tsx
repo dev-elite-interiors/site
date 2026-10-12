@@ -75,9 +75,13 @@ export default function Footer() {
             >
               Private Consultation
             </h4>
-            <p className="text-white/70 text-sm mb-6 leading-relaxed">
-              Connect directly with our principal designers on WhatsApp to discuss your floor plan and finish requirements.
+            <p className="text-white/70 text-sm mb-4 leading-relaxed">
+              Connect directly with our principal designers to discuss your floor plan and finish requirements.
             </p>
+            <div className="text-xs text-white/60 space-y-1.5 mb-6">
+              <p>Direct Line: <a href="tel:+917368032697" className="text-[var(--color-gold-light)] hover:underline">+91 73680 32697</a></p>
+              <p>Email: <a href="mailto:info.develiteinteriors@gmail.com" className="text-[var(--color-gold-light)] hover:underline">info.develiteinteriors@gmail.com</a></p>
+            </div>
             <div>
               <CTAButton variant="ghost-dark" size="sm">
                 Chat with Designer ↗
